@@ -33,7 +33,7 @@ var customBotOptions = {
     // how many frames per food check
     // foodFrames: 4,
     // round food cluster size up to the nearest
-    // foodRoundSize: 5,
+     foodRoundSize: 5,
     // round food angle up to nearest for angle difference scoring
     // foodRoundAngle: Math.PI / 8,
     // food clusters at or below this size won't be considered
@@ -44,7 +44,7 @@ var customBotOptions = {
     // attack emeny rear head at this angle
     // rearHeadDir: Math.PI / 2,
     // quick radius toggle size in approach mode
-    // radiusApproachSize: 5,
+     radiusApproachSize: 5,
     // quick radius toggle size in avoid mode
     // radiusAvoidSize: 25,
     // uncomment to quickly revert to the default options
